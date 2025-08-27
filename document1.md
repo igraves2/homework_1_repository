@@ -2,5 +2,6 @@
 ##Subsection A
 
 **bold text**
+
 *italicized text*
 
