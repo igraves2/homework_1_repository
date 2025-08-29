@@ -1,6 +1,6 @@
-#Section 1
+# Section 1
 
-##Subsection A
+## Subsection A
 
 **bold text**
 
